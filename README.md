@@ -1,5 +1,6 @@
 # POS System [Layered-Spring-JPA with Maven]
 
+
 In this **POS System** has all the functionalities of a POS system, like customer adding,item management,order placing,order viewing and order searching.It consists of five main parts;
 
     * Manage customers
@@ -26,6 +27,7 @@ In this **POS System** has all the functionalities of a POS system, like custome
 ## JPA
 
 Java Persistence API **(JPA)** defines the management of relational data in the Java applications. Hibernate is an Object-Relational Mapping (ORM) tool which is used to save the state of Java object into the database. It is just a specification. Various ORM tools implement it for data persistence.
+
 ## Spring
 
  Spring is the most popular application development framework for enterprise Java.
@@ -39,4 +41,5 @@ Please make sure to update tests as appropriate.
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
 
